@@ -18,4 +18,23 @@ by using more than 1 algorism and make aggregation to the prediction and to impr
 
 ## SVM Mode
 
+Output is :The accuracy of the model is 100% that maens the model is
+predicted all values correctly.
+
 ## Perceptron Model:
+
+we work on the perceptron to get the accuracy of the model to make
+classification in class 2,3 (Rosa and Canadian) the model give us accuracy
+83%
+
+## OVR SVM:
+
+Made binarize labels for Train labels and Test labels by using binarizedlabels
+function that Obtain the binarized labels.1 for positive class, -1 for negative class (OvR)
+
+## OVR SVM:
+
+Made binarize labels for Train labels and Test labels by using binarizedlabels
+function that Obtain the binarized labels.1 for positive class, -1 for negative class (OvR)
+
+## Using Argmax for Aggregation:
